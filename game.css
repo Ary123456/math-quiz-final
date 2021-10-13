@@ -1,0 +1,55 @@
+#player1name, #player2name{
+display: inline-block;
+color: rgb(0, 217, 255);
+}
+body {
+    background-color: black;
+}
+#tit {
+    color: rgb(0, 255, 179);
+    font-family: 'Fira Sans', sans-serif;
+    text-align: center;
+}
+#player1score, #player2score{
+    color: rgb(0, 195, 255);   
+}
+#id{
+    display: inline-block;   
+}
+#ans{
+    display: inline-block;    
+}
+#output{
+ background-color: blue;
+ border-radius: 10px;
+ border-top: 10px solid aqua;
+ padding: 10px;
+ float: none;
+ text-align: left;
+ width: 450px;
+ height: 170px;   
+}
+
+#qwe{
+   padding-left: 750px; 
+}
+#playerturn{
+   font-size: xx-large; 
+}
+#cool1{
+   padding-left: 800px; ; 
+}
+#send{
+    width: 240px;
+    height: 60px;
+}
+#qaz{
+   height: 30px;
+   width: 200px;
+   display: inline-block;
+    
+}
+#qoz{
+    display: inline-block; 
+    padding-left: 410px;
+}
